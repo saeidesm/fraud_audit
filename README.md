@@ -7,4 +7,4 @@ Building a classification model that can predict the fraudulent firm on the basi
 The features informations are as follow:
 
 
-![features](https://github.com/saeidesm/fraud_audit/blob/main/Table_1_Features.png)
+![features](https://github.com/saeidesm/fraud_audit/blob/main/Fraudulent%20Firms%20Classification/Table_1_Features.png)
